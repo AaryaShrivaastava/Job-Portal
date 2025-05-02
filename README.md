@@ -6,8 +6,8 @@ _A Sophomore‑Year Academic Project by VIT Bhopal University Students_
 This repository contains the front‑end prototype for a job portal platform developed as a collaborative sophomore‑year project. It focuses on research-driven UI architecture and responsive component design using React and Git for version control.
 
 ## Collaborators
+- **Tanpreet Singh** 
 - **Aarya Shrivaastava**  
-- **Tanpreet Singh**  
 - **Ananya Chawla**  
 - **Vansh Saxena**  
 - **Aditya Singh**
